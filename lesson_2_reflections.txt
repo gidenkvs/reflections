@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when you initialize repository it creates a new repository so that you can track changes in your code.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a middle layer that 
