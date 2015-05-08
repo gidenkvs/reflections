@@ -4,4 +4,4 @@ when you initialize repository it creates a new repository so that you can track
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-staging area is a middle layer that 
+staging area is a middle layer that contains files that are selected from working directory that wan to be uploaded to repository
