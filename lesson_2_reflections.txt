@@ -5,3 +5,25 @@ when you initialize repository it creates a new repository so that you can track
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is a middle layer that contains files that are selected from working directory that wan to be uploaded to repository
+
+im adding new information to the document to see how git will work
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+in staging i get to see all the added versions and see wich one i should commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+if i am experimenting with a code and dont want to impact master file. experimental branch (test)
+
+How do the diagrams help you visualize the branch structure? 
+
+i can see the flow of changes and commits done to projects
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+when 2 branches are merged together they become one cohesive unit, the diagram helps you see the head of each branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merge has to be manual because there might be conflicts that need to be resolved, it may be harder but it prevents bugs and things i code.
